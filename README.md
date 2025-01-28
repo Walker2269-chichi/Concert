@@ -37,6 +37,53 @@ This project implements a concert management system using Python. The domain inc
 
 
 
+## Getting Started
 
+### Prerequisites
+
+- Python 3.8 
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+   ```
+
+2. Set up a virtual environment:
+   ```bash
+   python3 -m venv env
+   source env/bin/activate  # For Linux/Mac
+   env\Scripts\activate    # For Windows
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+
+## Contributing
+
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+---
 
 
